@@ -1,0 +1,20 @@
+# Node modules
+**/node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+backend/.env
+
+# Build files
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
