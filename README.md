@@ -68,7 +68,7 @@ spendwise/
 
 ---
 
-## 🧩 Future Enhancements (Optional)
+## 🧩 Future Enhancements 
 
 - 🔔 Email/Push Budget Alerts
 - 📈 Monthly/Yearly Reports
